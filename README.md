@@ -8,3 +8,7 @@
 
  ![image](https://user-images.githubusercontent.com/58879890/140729714-26666ff1-e726-4177-9809-b0b70171b35c.png)
 
+- We can kill it only from Task Manager
+
+ ![image](https://user-images.githubusercontent.com/58879890/140730075-4f5e86f4-e3f1-4cc8-a20a-ca1b6052c5c2.png)
+
