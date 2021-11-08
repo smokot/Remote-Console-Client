@@ -1,0 +1,4 @@
+﻿  CLIENT.cpp
+c:\users\5fwaf\source\repos\ratnik by smokot client\examplewinapi\client.cpp(47): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\5fwaf\source\repos\ratnik by smokot client\examplewinapi\smokot.h(24): warning C4172: возвращение адреса локальной или временной переменной : buff
+  EXAMPLEWINAPI.vcxproj -> C:\Users\5fwaf\source\repos\RATNIK BY SMOKOT CLIENT\Debug\EXAMPLEWINAPI.exe
