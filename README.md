@@ -10,5 +10,6 @@
 
 - We can kill it only from Task Manager
 
- ![image](https://user-images.githubusercontent.com/58879890/140730075-4f5e86f4-e3f1-4cc8-a20a-ca1b6052c5c2.png)
+ ![image](https://user-images.githubusercontent.com/58879890/140730183-e8984b75-e57c-4e27-ab6b-ef2c1f0f4d63.png)
+
 
